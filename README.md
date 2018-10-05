@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+Cod 207- Assignment 1
 omertugrulomertugrulomertugrulomertugrul
 omertugrulomertugrulomertugrulomertugrul
 omertugrulomertugrulomertugrulomertugrul
